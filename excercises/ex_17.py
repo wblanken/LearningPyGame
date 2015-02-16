@@ -16,7 +16,7 @@ while running:
 	if event.type == pygame.QUIT:
 		running = 0
 	
-	screen.fill(bgcolor)
+	#screen.fill(bgcolor)
 	pygame.draw.line(screen, linecolor, (0, y), (width - 1, y))
 	
 	y += dir
