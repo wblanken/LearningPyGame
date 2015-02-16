@@ -1,4 +1,10 @@
 #! /usr/bin/env python
+"""
+Excercise 03:
+Create a program that asks the users for the width 
+and the height and then displays the window.
+"""
+
 
 import pygame
 

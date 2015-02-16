@@ -1,4 +1,10 @@
 #! /usr/bin/env python
+"""
+Excercise 02:
+Create a program where the user can specify the width 
+and the height as command line arguments.
+Add running loop.
+"""
 
 
 import sys
